@@ -1,5 +1,6 @@
 #include <avr/io.h>
 #include <stdio.h>
+#include "uart.h"
 
 #ifndef BAUD
 #define BAUD 9600
